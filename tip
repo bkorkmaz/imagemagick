@@ -1,0 +1,2 @@
+# Get image metadata to txt file
+# magick identify -verbose image.png > metadata.txt
